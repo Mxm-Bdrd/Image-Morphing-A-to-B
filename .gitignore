@@ -1,0 +1,19 @@
+# Environnement virtuel Python
+.venv/
+venv/
+
+# Fichiers de configuration de l'éditeur PyCharm
+.idea/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Dossiers contenant les milliers de trames générées
+video_25fps*/
+
+# Fichiers spécifiques au système d'exploitation
+.DS_Store
+Thumbs.db
+
+*.exe
